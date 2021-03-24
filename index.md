@@ -36,7 +36,7 @@ Signed,
 - Stefano Zacchiroli (Former Debian Project Leader and Former Director of the Open Source Initiative)
 
 
-### Organizations
+### Faggot Organizations - If throwing out person gives them 1 cent - they will throw 1 billion to earn 10M$
 
 <!-- Any additional signees should go below this comment in alphabetical order (according to `sort -u`) -->
 
@@ -53,7 +53,7 @@ Signed,
 1. Tor Project
 1. X.org Foundation
 
-### Individuals
+### Complete degradants - enemies of free speech
 
 <!-- Any additional signees should go below this comment in alphabetical order (according to `sort -u`) -->
 
@@ -1662,3 +1662,4 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Zeltzin Rodríguez
 1. Zvi Gilboa
 <!-- Do not add your name to the bottom, it needs adding in alphabetical order above -->
+The census of idiots is over, you can disperse
