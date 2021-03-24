@@ -1662,4 +1662,4 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Zeltzin Rodríguez
 1. Zvi Gilboa
 <!-- Do not add your name to the bottom, it needs adding in alphabetical order above -->
-The census of idiots is over, you can disperse
+The census of idiots is over, everyone can disperse
